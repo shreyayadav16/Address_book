@@ -25,9 +25,9 @@ This is a console-based Address Book application written in C. It allows users t
 - header files : Declarations
 
 # Compilation
--bash
--gcc main.c contact.c file.c populate.c -o addressbook
--./addressbook
+- bash
+- gcc main.c contact.c file.c populate.c -o addressbook
+- ./addressbook
 
 
  
