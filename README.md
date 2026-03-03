@@ -16,7 +16,7 @@ This is a console-based Address Book application written in C. It allows users t
 - File handling
 - Modular programming
 - Makefile
-- 
+ 
 # Project structure
 - main.c : Entry point
 - contact.c : Contact operations
