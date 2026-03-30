@@ -22,3 +22,4 @@ void populateAddressBook(AddressBook* addressBook)
         addressBook->contacts[addressBook->contactCount++] = dummyContacts[i];
     }
 }
+
